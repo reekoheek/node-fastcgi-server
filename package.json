@@ -1,0 +1,16 @@
+{
+  "name": "node-fastcgi-server",
+  "version": "0.0.0",
+  "description": "Node FastCGI Server ===================",
+  "main": "app.js",
+  "dependencies": {
+    "fastcgi-parser": "~0.1.5",
+    "mime": "~1.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ganesha <reekoheek@gmail.com>",
+  "license": "MIT"
+}
